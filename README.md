@@ -1,1 +1,1 @@
-- https://marina-zalozna.github.io/goit-react-hw-02-phonebook/
+- https://marina-zalozna.github.io/goit-react-hw-03-phonebook/
